@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    width:600px;
+    background-color:#FAB;
+}
+h1{
+    padding:0;
+    margin: 0;
+    color:white;
+}
+
+ul li{
+	list-style-type: none;
+}
+li a{
+    text-decoration: none;
+    color:yellow;
+}
+li a:hover{
+	color:black;
+	font-size: 18px;
+	text-decoration: underline;		
+}

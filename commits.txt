@@ -1,0 +1,17 @@
+commit d5236c91b0cc01d6cf1f2ca3d3e7569abd7686fd
+Author: Jorge Guzman <jorgeguzman2210@gmail.com>
+Date:   Sat Aug 27 21:11:42 2016 -0400
+
+    Modificando las redes sociales de la pagina Index.html
+
+commit 43886d4059f7aa7d14ff4f49b6919f1dec4e2e3d
+Author: Jorge Guzman <jorgeguzman2210@gmail.com>
+Date:   Sat Aug 27 20:11:55 2016 -0400
+
+    Agregando informacion sobre JorgeGuzman
+
+commit c61d905c5cddc53c878f69a800d8a08bd75b358f
+Author: Jorge Guzman <jorgeguzman2210@gmail.com>
+Date:   Sat Aug 27 19:59:25 2016 -0400
+
+    Inicializando proyecto y agregando esqueleto del mismo
