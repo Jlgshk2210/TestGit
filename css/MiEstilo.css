@@ -1,7 +1,7 @@
 body{
     padding: 0;
     margin: 0 auto;
-    width:600px;
+    width:900px;
     background-color:#FAB;
 }
 h1{
@@ -20,6 +20,18 @@ li a{
 li a:hover{
 	color:black;
 	font-size: 18px;
-	text-decoration: underline;		
-
+	text-decoration: underline;
+}
+.miArticulos{
+	width: 100%;
+	height: auto;
+}
+.miArticulos article{
+	width:280px;
+	float: left;
+	padding:0 20px 0 0;
+}
+.miArticulos article p{
+	text-align: justify;
+	text-justify: inter-word;
 }
