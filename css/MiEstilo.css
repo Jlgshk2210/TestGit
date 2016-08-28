@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0 auto;
+    width:600px;
+    background-color:#FAB;
+}
+h1{
+    padding:0;
+    margin: 0;
+    color:white;
+}
+
+p a{
+    text-decoration: none;
+    color:orangered;
+}
