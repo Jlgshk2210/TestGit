@@ -10,7 +10,16 @@ h1{
     color:white;
 }
 
-p a{
+ul li{
+	list-style-type: none;
+}
+li a{
     text-decoration: none;
-    color:orangered;
+    color:yellow;
+}
+li a:hover{
+	color:black;
+	font-size: 18px;
+	text-decoration: underline;		
+
 }
